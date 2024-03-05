@@ -1,4 +1,4 @@
-type ID = number | string; // it is possbly to specify few types at once
+type ID = number | string; // it is possbly to specify Union types. Unions also applied for function inputs
 
 type User = {
   id: ID; // it is possible to assign custom types for object property
