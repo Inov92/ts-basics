@@ -15,10 +15,10 @@ let users: {id: number; name: string; isPremium?: boolean}[] =
 // NOTE: if contract change compile error occured
 users.forEach((user) => {
     console.log(printUser(user))
-})
+});
 
 // Contextual typing applies to arrow functions
 const names = ["Alice", "Bob", "Eve"];
 names.forEach((s) => {
     console.log(s.toLowerCase());
-  });
+});
