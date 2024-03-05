@@ -2,14 +2,12 @@
   "name": "ts-basics",
   "version": "1.0.0",
   "description": "This is project for practicing TypeScript features",
-  "main": "index.js",
   "scripts": {
     "test": "test"
   },
   "keywords": [
     "TS",
-    "TestAutomation",
-    "CyPress"
+    "TestAutomation"
   ],
   "author": "Ivan Protasov",
   "license": "ISC",
