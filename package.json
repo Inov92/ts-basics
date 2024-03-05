@@ -1,0 +1,20 @@
+{
+  "name": "ts-basics",
+  "version": "1.0.0",
+  "description": "This is project for practicing TypeScript features",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "keywords": [
+    "TS",
+    "TestAutomation",
+    "CyPress"
+  ],
+  "author": "Ivan Protasov",
+  "license": "ISC",
+  "devDependencies": {
+    "ts-node": "^10.9.2",
+    "typescript": "^5.3.3"
+  }
+}
